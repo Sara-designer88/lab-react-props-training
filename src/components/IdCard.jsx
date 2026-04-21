@@ -14,13 +14,13 @@ const cardStyles = {
 
 const dataStyles={
    
-   FlexDirection : "row"
+   flexDirection : "row"
 }
 
 const imgStyle = {
-      AlignContent : "center",
-      JustifyContent:"center",
-   FlexDirection : "row",
+      alignContent : "center",
+      justifyContent:"center",
+   flexDirection : "row",
    gap: "20px",
    padding: "20px"
 }
